@@ -11,15 +11,15 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "libexereciserepdetector",
+            name: "libexerciserepdetector",
             targets: [
-                "libexereciserepdetector"
+                "libexerciserepdetector"
             ]
         ),
     ],
     targets: [
        .binaryTarget(
-            name: "libexereciserepdetector",
+            name: "libexerciserepdetector",
             url: "https://github.com/darwell-inc/ios-libexerciserepdetector/releases/download/1.0.0/libexerciserepdetector.xcframework.zip",
             checksum: "b227312b6b9facabd53d18a7a0c27d10fe2ccb75695c0a4da5259c0f84357cfb"
         )
