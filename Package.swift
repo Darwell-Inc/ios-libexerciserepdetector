@@ -21,7 +21,7 @@ let package = Package(
        .binaryTarget(
             name: "libexerciserepdetector",
             url: "https://github.com/darwell-inc/ios-libexerciserepdetector/releases/download/1.0.0/libexerciserepdetector.xcframework.zip",
-            checksum: "024351431db622da2bdf5fb71cdedce98027bb12e36db39121598697069530ec"
+            checksum: "b8315f886c9c3f9b62afeec00e7ea55a965e83807c47a3c0099b426b34b7a721"
         )
     ]
 )
